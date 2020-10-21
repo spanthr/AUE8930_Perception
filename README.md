@@ -1,2 +1,6 @@
-HI, I am Sharuya Panthri, graduate student at CU ICAR.
-This repository has files dealing with my course Autonomous Science and Systems Spring 2020.
+Hi, I am Sharuya Panthri, graduate student at CU ICAR.
+This repository has files dealing with projects on Perception.
+
+## Project 1
+## Project 2
+## Project 3
