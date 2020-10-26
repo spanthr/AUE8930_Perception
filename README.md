@@ -18,6 +18,17 @@ This repository has files dealing with projects on Perception.
            ![](IMages/11.jpg)
             ![](IMages/12.jpg)
              ![](IMages/13.jpg)
+             ![](IMages/14.jpg)
+             ![](IMages/15.jpg)
+             ![](IMages/16.jpg)
+             ![](IMages/17.jpg)
+             ![](IMages/18.jpg)
+             ![](IMages/19.jpg)
+             ![](IMages/20.jpg)
+             ![](IMages/21.jpg)
+             ![](IMages/22.jpg)
+             ![](IMages/23.jpg)
+             ![](IMages/24.jpg)
 
 
 ![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
