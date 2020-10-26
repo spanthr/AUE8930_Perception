@@ -5,7 +5,7 @@ This repository has files dealing with projects on Perception.
 
 
 ## Project 2
- ![](IMages/1.png)
+ ![](IMages/1.jpg)
   ![](IMages/1.png)
    ![](IMages/1.png)
     ![](IMages/1.png)
