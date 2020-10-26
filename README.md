@@ -34,3 +34,9 @@ This repository has files dealing with projects on Perception.
 ![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
 ## Project 3 Lidar
  ![](IMages/Picture1.png)
+  ![](IMages/Picture2.png)
+   ![](IMages/Picture3.png)
+    ![](IMages/Picture4.png)
+     ![](IMages/Picture5.png)
+      ![](IMages/Picture6.png)
+       ![](IMages/Picture7.png)
