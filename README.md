@@ -36,7 +36,7 @@ This repository has files dealing with projects on Perception.
  ![](IMages/Picture1.png)
   ![](IMages/Picture2.png)
    ![](IMages/Picture3.png)
-    ![](IMages/Picture4.png)
+    ![](IMages/4lidar.png)
      ![](IMages/Picture5.png)
       ![](IMages/Picture6.png)
        ![](IMages/Picture7.png)
