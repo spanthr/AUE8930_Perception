@@ -27,6 +27,7 @@ This repository has files dealing with projects on Perception.
    ![](IMages/19.jpg)
        
   Parking Space detected
+  
    ![](IMages/20.jpg)
          
    ![](IMages/21.jpg)
@@ -42,6 +43,7 @@ This repository has files dealing with projects on Perception.
 ## Project 1 Signal Processing and Visualzing Nuscenes Data set
 
 Time and Frequency Domain Analysis
+
  ![](IMages/10.png)
  
  
@@ -57,8 +59,10 @@ Visualizing objects with intensity
    
  
    ![](IMages/14.png)
-    ![](IMages/Picture15.png)
-    ![](IMages/Picture16.png)
+   
+  ![](IMages/Picture15.png)
+    
+   ![](IMages/Picture16.png)
 
 ## Project 2
  ![](IMages/1.jpg)
@@ -66,6 +70,8 @@ Visualizing objects with intensity
  RGB intensity
 conversion using NTSC by splitting the 3 channel RGB image into single gray scale by converting using
 the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
+
+
   ![](IMages/2.jpg)
   
   
@@ -77,11 +83,11 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
   
   edge detection of the image
   
-    ![](IMages/5.jpg)
+  ![](IMages/5.jpg)
   
   Sobel in X direction
   
-     ![](IMages/6.jpg)
+  ![](IMages/6.jpg)
      
    edge detection of the image
        ![](IMages/7.jpg)
@@ -105,6 +111,7 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
          
 
 ## Project 3 Lidar
+
  ![](IMages/Picture1.png)
  
  Downsampling with Box Filter
@@ -116,12 +123,14 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
    ![](IMages/Picture3.png)
    
 Visualize off grounf points
+
     ![](IMages/4lidar.png)
     
     
   ![](IMages/Picture5.png)
+  
     ![](IMages/Picture6.png)
     
-    Visualize in Spherical coordinates
+ Visualize in Spherical coordinates
     
    ![](IMages/Picture7.png)
