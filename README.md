@@ -55,7 +55,7 @@ NuScenes Radar data and Labelling
 
 Visualizing objects with intensity
    
-   ![](IMages/13.png)
+ 
    ![](IMages/14.png)
     ![](IMages/Picture15.png)
     ![](IMages/Picture16.png)
@@ -106,9 +106,22 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
 
 ## Project 3 Lidar
  ![](IMages/Picture1.png)
+ 
+ Downsampling with Box Filter
+ 
   ![](IMages/Picture2.png)
+ 
+ RANSAC algorithm  to the 3D voxel space points to find a ground plane model
+ 
    ![](IMages/Picture3.png)
+   
+Visualize off grounf points
     ![](IMages/4lidar.png)
-     ![](IMages/Picture5.png)
-      ![](IMages/Picture6.png)
-       ![](IMages/Picture7.png)
+    
+    
+  ![](IMages/Picture5.png)
+    ![](IMages/Picture6.png)
+    
+    Visualize in Spherical coordinates
+    
+   ![](IMages/Picture7.png)
