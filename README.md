@@ -1,4 +1,4 @@
-Hi, I am Sharuya Panthri, graduate student at CU ICAR.
+Hi, I am Shaurya Panthri, graduate student at CU ICAR.
 This repository has files dealing with projects on Perception.
 ## Parking Space Hough Lines
 
