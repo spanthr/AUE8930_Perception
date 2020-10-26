@@ -12,8 +12,17 @@ This repository has files dealing with projects on Perception.
 
 ## Project 2
  ![](IMages/1.jpg)
+ 
+ RGB intensity
+conversion using NTSC by splitting the 3 channel RGB image into single gray scale by converting using
+the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
   ![](IMages/2.jpg)
+  
+  
    ![](IMages/3.jpg)
+   
+    Down-sampling image
+   
     ![](IMages/4.jpg)
      ![](IMages/5.jpg)
       ![](IMages/6.jpg)
