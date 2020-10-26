@@ -5,6 +5,5 @@ This repository has files dealing with projects on Perception.
  ![](IMages/Picture1.png)
 ## Project 2
 
-
-![ ](https://github.com/spanthr/Motion_Planning/blob/main/GIFS/IMages/ezgif.com-gif-maker.gif)
+![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
 ## Project 3
