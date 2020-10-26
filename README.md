@@ -1,5 +1,25 @@
 Hi, I am Sharuya Panthri, graduate student at CU ICAR.
 This repository has files dealing with projects on Perception.
+## Parking Space Hough Lines
+
+
+![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
+
+             ![](IMages/13.jpg)
+             
+             ![](IMages/14.jpg)
+             
+             ![](IMages/15.jpg)
+             
+             ![](IMages/16.jpg)
+             ![](IMages/17.jpg)
+             ![](IMages/18.jpg)
+             ![](IMages/19.jpg)
+             ![](IMages/20.jpg)
+             ![](IMages/21.jpg)
+             ![](IMages/22.jpg)
+             ![](IMages/23.jpg)
+             ![](IMages/24.jpg)
 
 ## Project 1 Signal Processing and Visualzing Nuscenes Data set
  ![](IMages/10.png)
@@ -23,7 +43,7 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
    
    Down-sampling image
    
-  ![](IMages/4.jpg)
+
   
   edge detection of the image
   
@@ -35,27 +55,25 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
      
    edge detection of the image
        ![](IMages/7.jpg)
-       ![](IMages/8.jpg)
-    Edge detection of Lenna Gray using resultant of Gx and Gy : Sobel 
-        ![](IMages/9.jpg)
+  
+   Edge detection of Lenna Gray using resultant of Gx and Gy : Sobel 
+     ![](IMages/9.jpg)
+     
+   Histogram Analysis 
+     
           ![](IMages/10.jpg)
+    
+   Cumulative Histogram Distribution
+          
            ![](IMages/11.jpg)
+  
+  Histogram Equivalization    
+       
             ![](IMages/12.jpg)
-             ![](IMages/13.jpg)
-             ![](IMages/14.jpg)
-             ![](IMages/15.jpg)
-             ![](IMages/16.jpg)
-             ![](IMages/17.jpg)
-             ![](IMages/18.jpg)
-             ![](IMages/19.jpg)
-             ![](IMages/20.jpg)
-             ![](IMages/21.jpg)
-             ![](IMages/22.jpg)
-             ![](IMages/23.jpg)
-             ![](IMages/24.jpg)
+            
+ Result of   Histogram Equivalization   
+         
 
-
-![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
 ## Project 3 Lidar
  ![](IMages/Picture1.png)
   ![](IMages/Picture2.png)
