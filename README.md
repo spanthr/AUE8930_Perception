@@ -2,7 +2,13 @@ Hi, I am Sharuya Panthri, graduate student at CU ICAR.
 This repository has files dealing with projects on Perception.
 
 ## Project 1 Signal Processing and Visualzing Nuscenes Data set
-
+ ![](IMages/10.png)
+  ![](IMages/11.png)
+   ![](IMages/12.png)
+    ![](IMages/13.png)
+     ![](IMages/14.png)
+      ![](IMages/Picture15.png)
+       ![](IMages/Picture16.png)
 
 ## Project 2
  ![](IMages/1.jpg)
