@@ -21,14 +21,23 @@ the formula: 0.2989 * r + 0.5870 * g + 0.1140 * b
   
    ![](IMages/3.jpg)
    
-    Down-sampling image
+   Down-sampling image
    
-    ![](IMages/4.jpg)
-     ![](IMages/5.jpg)
-      ![](IMages/6.jpg)
+  ![](IMages/4.jpg)
+  
+  edge detection of the image
+  
+    ![](IMages/5.jpg)
+  
+  Sobel in X direction
+  
+     ![](IMages/6.jpg)
+     
+   edge detection of the image
        ![](IMages/7.jpg)
-        ![](IMages/8.jpg)
-         ![](IMages/9.jpg)
+       ![](IMages/8.jpg)
+    Edge detection of Lenna Gray using resultant of Gx and Gy : Sobel 
+        ![](IMages/9.jpg)
           ![](IMages/10.jpg)
            ![](IMages/11.jpg)
             ![](IMages/12.jpg)
