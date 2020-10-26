@@ -5,9 +5,9 @@ This repository has files dealing with projects on Perception.
 
 ![ ](https://github.com/spanthr/Perception_and_Intelligence/blob/master/IMages/ezgif.com-gif-maker.gif)
 
- ![](IMages/13.jpg)
+ ![](IMages/14.jpg)
              
-   ![](IMages/14.jpg)
+
    
    Histogram Equivalization
    
@@ -22,6 +22,7 @@ This repository has files dealing with projects on Perception.
    ![](IMages/18.jpg)
    
   Hough Lines
+   
    
    ![](IMages/19.jpg)
        
@@ -39,13 +40,25 @@ This repository has files dealing with projects on Perception.
    ![](IMages/24.jpg)
 
 ## Project 1 Signal Processing and Visualzing Nuscenes Data set
+
+Time and Frequency Domain Analysis
  ![](IMages/10.png)
+ 
+ 
   ![](IMages/11.png)
+  
+  Fast Fourier Transform
+  
    ![](IMages/12.png)
-    ![](IMages/13.png)
-     ![](IMages/14.png)
-      ![](IMages/Picture15.png)
-       ![](IMages/Picture16.png)
+   
+NuScenes Radar data and Labelling
+
+Visualizing objects with intensity
+   
+   ![](IMages/13.png)
+   ![](IMages/14.png)
+    ![](IMages/Picture15.png)
+    ![](IMages/Picture16.png)
 
 ## Project 2
  ![](IMages/1.jpg)
